@@ -52,7 +52,7 @@ The system is configurable in two ways:
 - through some configuration screens to set the line, starting station and destination station of the travel.
 <center><img src="UI-select-destination.jpg" width="500"></center>
 
-<br /><br />
+<br />
 
 ### Transmedial elements
 The graphical elements used in the AR experience are called "transmedial elements", because they are used to keep a continuum between the VR experience and the AR experience of 5A.
