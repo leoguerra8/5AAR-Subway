@@ -62,8 +62,7 @@ Among them we can find:
 <center><img src="hand-TM.jpg" width="500"></center>
 
 - The facilitators, which are digital cues that help the user to remember elements learned in the previous VR context, but that they are not able to correctly recall in the AR experience,
-<center><img src="facilitator-ticketmachine.png" width="100">,  
-<img src="facilitator-ticketmachine-m5.png" width="100">, <img src="facilitator-turnstile.png" width="50">, <img src="facilitator-turnstile-m3.png" width="57"></center>
+<center><img src="facilitator-ticketmachine.png" width="100"></center>
 
 - The virtual assistant’s avatar, which is, from a methodological point of view, the most important transmedial element.
 <center><img src="avatar-5A.png" width="150"></center>
